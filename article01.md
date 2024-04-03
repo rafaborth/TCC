@@ -18,9 +18,16 @@ Authors:
 * calibrating / flow chart
 
 ## Results 
-* on fild calibration experiences
+* on fild calibration experiences 
+figure - field campaing and device installation
 * quality analisys of raw signal and environmental interferences 
+figure - lineplot concentrations, reference comparison, signal anomalies (limites, valores válidos)
+figure - errors timeseries and statistics
+figure - correlation with environmental interferences 
 * calibrating analisys
+figure - timeseries raw data, reference and calibrated 
+figure - scatterplots raw data, reference and calibrated detailing factor of two
+table - statistics 
 
 
 
